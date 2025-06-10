@@ -1,4 +1,4 @@
-# PHP Coding Bible
+PHP Coding Bible
 Bible of how we want to write maintainable code and applications.
 
 ## Ethos
@@ -121,7 +121,7 @@ _Collaborators_, be they _aggregates_ or providers of functionality, provide the
 A simple Aggregate example for use within a `Customer`:
 
 ```php
-namespace Shrikeh\Customer;
+namespace Example\Customer;
 
 final class ContactDetails
 {
@@ -387,7 +387,7 @@ function myFunc(string $str): void
 
 myFunc(123);
 ```
-See [https://3v4l.org/6YfXoK]()
+[See](https://3v4l.org/6YfXoK)
 
 This will simply output `123`
 
@@ -405,7 +405,7 @@ function myFunc(string $str): void
 
 myFunc(123); 
 ```
-See [https://3v4l.org/smJf1]()
+[See](https://3v4l.org/smJf1)
 
 And we now get:
 ```
